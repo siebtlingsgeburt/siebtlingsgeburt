@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.0" client="site" method="upgrade">
+    <name>mod_manhattan_domain</name>
+    <author>David Neukirchen</author>
+    <creationDate>Sep 2017</creationDate>
+    <copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorEmail>info@rheinsurfen.de</authorEmail>
+    <authorUrl>www.rheinsurfen.de</authorUrl>
+    <version>1.0.0</version>
+    <description>MOD_MANHATTAN_DOMAIN_DESCRIPTION</description>
+    <files>
+        <filename module="mod_manhattan_domain">mod_manhattan_domain.php</filename>
+        <folder>language</folder>
+        <folder>tmpl</folder>
+        <filename>helper.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field
+                        name="api_key"
+                        type="text"
+                        required="true"
+                        default=""
+                        label="MOD_MANHATTAN_DOMAIN_FIELD_API_KEY"
+                        description="MOD_MANHATTAN_DOMAIN_FIELD_API_KEY_DESC"
+                />
+                <field
+                        name="domain"
+                        type="text"
+                        default=""
+                        required="true"
+                        label="MOD_MANHATTAN_DOMAIN_FIELD_DOMAIN"
+                        description="MOD_MANHATTAN_DOMAIN_FIELD_DOMAIN_DOMAIN_DESC"
+                />
+                <field
+                        name="label"
+                        type="text"
+                        required="true"
+                        default="Unlabeled"
+                        label="MOD_MANHATTAN_DOMAIN_FIELD_LABEL"
+                        description="MOD_MANHATTAN_DOMAIN_FIELD_LABEL_DESC"
+                />
+                <field
+                        name="max_keywords"
+                        type="text"
+                        default="10"
+                        label="MOD_MANHATTAN_DOMAIN_FIELD_LABEL_MAX_KEYWORDS"
+                        description="MOD_MANHATTAN_DOMAIN_FIELD_LABEL_MAX_KEYWORDS_DESC"
+                />
+                <field
+                        name="api_cache_time"
+                        type="text"
+                        default="60"
+                        label="MOD_MANHATTAN_DOMAIN_FIELD_API_CACHE_TIME_MINUTES"
+                        description="MOD_MANHATTAN_DOMAIN_FIELD_API_CACHE_TIME_MINUTES_DESC"
+                />
+            </fieldset>
+            <fieldset name="advanced">
+                <field
+                        name="layout"
+                        type="modulelayout"
+                        label="JFIELD_ALT_LAYOUT_LABEL"
+                        description="JFIELD_ALT_MODULE_LAYOUT_DESC"/>
+                <field
+                        name="moduleclass_sfx"
+                        type="textarea" rows="3"
+                        label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+                        description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC"/>
+                <field
+                        name="cache"
+                        type="list"
+                        default="1"
+                        label="COM_MODULES_FIELD_CACHING_LABEL"
+                        description="COM_MODULES_FIELD_CACHING_DESC">
+                    <option
+                            value="1">JGLOBAL_USE_GLOBAL
+                    </option>
+                    <option
+                            value="0">COM_MODULES_FIELD_VALUE_NOCACHING
+                    </option>
+                </field>
+                <field
+                        name="cache_time"
+                        type="text"
+                        default="900"
+                        label="COM_MODULES_FIELD_CACHE_TIME_LABEL"
+                        description="COM_MODULES_FIELD_CACHE_TIME_DESC"/>
+                <field
+                        name="cachemode"
+                        type="hidden"
+                        default="static">
+                    <option value="static"></option>
+                </field>
+            </fieldset>
+        </fields>
+    </config>
+</extension>
