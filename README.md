@@ -8,7 +8,7 @@
 Diesen Ausdruck hört man auf deutschen Schulhöfern immer häufiger. 
 Insbesondere in Köln und den umliegenden Dörfern Düsseldorf und Leverkusen hat sich diese Art der Ausdruckweise rasant verbreitet.
 
-Nach ```Ey, du Otto!``` und ```Ey, du Bob``` wurde somit ein weiterer Begriff von der Jugend zweckentfremdet und immer häufiger als Schimpfwort eingesetzt. 
+Nach ```Ey, du Otto!``` und ```Ey, du Bob!``` wurde somit ein weiterer Begriff von der Jugend zweckentfremdet und immer häufiger als Schimpfwort eingesetzt. 
 
 Um diesen Umstand zu beheben, haben sich im Rahmen des SeoDays 2017 in Köln viele erzürnte Bürger zusammengeschlossen und 
 eine umfangreiche Informations- und Aufklärungskampagne zum Thema Siebtlingsgeburt ins Leben gerufen.
@@ -24,9 +24,9 @@ Hier finden Sie [umfangreiche Informationen zur Siebtlingsgeburt](https://www.jo
 # Ey, du Siebtlingsgeburt!
 
 Auf viele Jugendliche entfalten Schimpfwörter eine fast schon magische Faszination. 
-Sie sind für einige die ersten Worte, die in fremden Sprachen (oder bedauernswerterweise der eigenen Sprache) gelernt werden.
+Sie sind für einige die ersten Worte, die in fremden Sprachen (oder bedauernswerterweise in der eigenen Sprache) gelernt werden.
 
-Ob als lustig und liebevoll gemeinter Spitzname oder als anfeinden Provokation. Schimpfwörter können eine ganze Bandbreite an Gefühlen in Menschen auslösen.
+Ob als lustig und liebevoll gemeinter Spitzname oder als gemeine Provokation. Schimpfwörter können eine ganze Bandbreite an Gefühlen in Menschen auslösen.
 
 Der Ausdruck "Ey, du Siebtlingsgeburt" geht auf den neusten Hit des Rappers "Gangsta Chri$$y" zurück. 
 Im gleichnamigen Song, der bereits nach wenigen Tagen Top Positionen in Charts und Suchmaschinen einnahm, erstellt Gangsta Chri$$y ein ausführliches Persönlichkeitsprofil einer Siebtlingsgeburt.
@@ -34,7 +34,7 @@ Im gleichnamigen Song, der bereits nach wenigen Tagen Top Positionen in Charts u
 Er selbst wuchs als das letzte von sieben Kindern einer Siebtlingsgeburt in einerm armen Vorort bei Düsseldorf auf. 
 Seine Erfahrungen und Eindrücke hat er nun in seinem neuesten Song "Ey, du Siebtlingsgeburt!" verarbeitet. 
 
-Dass der Begriff "Ey, du Siebtlingsgeburt" duch seinen Hit nun Einzug auf deutschen Schulhöfen erlangt hat, freut den Marketing Strategen zum Missfallen vieler Lehrer und Eltern.
+Dass der Begriff "Ey, du Siebtlingsgeburt" duch seinen Hit nun Einzug auf deutschen Schulhöfen erlangt hat, freut zum Missfallen vieler Lehrer und Eltern den Marketing Strategen Gangsta Chri$$y.
 
 # Joomla SEO Contest Module
 
