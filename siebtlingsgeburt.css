@@ -1,0 +1,68 @@
+#wife {
+  right: 100%;
+  margin: 0;
+}
+
+.ninja {
+  color: black;
+  visibility: hidden;
+  animation-duration: 0.00001s;
+}
+
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+
+.government {
+  transition: all 4yr ease-out;
+}
+
+#tower-of-pisa {
+  font-style: italic;
+}
+
+.lego {
+  display: block;
+}
+
+#titanic {
+  float: none;
+}
+
+.hobbit {
+  height: 25%;
+}
+
+.hobbit .foot {
+  width: 200%;
+}
+
+#big-bang::before {
+  content: "";
+}
+
+.push-up-bra {
+  margin-top: -25%;
+  overflow: visible;
+}
+
+.monarch {
+  position: inherit;
+}
+
+#europe .country {
+  border: none;
+}
+
+#usa + #mexico {
+  border: 1px dashed;
+}
+
+#delorean {
+  z-index: -1955;
+}
+
+#chucknorris {
+  color: #BADA55;
+}
+
