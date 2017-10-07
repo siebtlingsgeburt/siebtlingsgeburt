@@ -12,9 +12,9 @@ $highlightedDomain = $params->get('highlight_domain');
         </thead>
         <tbody>
         <?php foreach ($data->customRankings AS $ranking) : ?>
-            <tr>
+            <tr <?php echo ($ranking->domain == $highlightedDomain) ? 'class="highlight"' : ''; ?>>
                 <td class="ranking-position"><?php echo $ranking->position ?></td>
-                <td class="ranking-url<?php echo ($ranking->domain == $highlightedDomain) ? ' highlight' : ''; ?>">
+                <td class="ranking-url">
                     <span class="ranking-domain"><?php echo $ranking->domain ?></span><span class="ranking-path"><?php echo rtrim($ranking->path, '/'); ?></span>
                 </td>
                 <td class="ranking-position-trend">
