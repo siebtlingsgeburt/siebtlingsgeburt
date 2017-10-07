@@ -34,12 +34,12 @@ class ModManhattanKeywordHelper
 
         // Check for http success
         if ($response->code !== 200) {
-            throw new RuntimeException("[$response->code] Unable to get data from manhatten api: " . $data->exception);
+            throw new RuntimeException("[$response->code] Unable to get data from manhattan api: " . $data->exception);
         }
 
         // Check the data
         if (!$data || !isset($data->customRankings)) {
-            throw new UnexpectedValueException("Unexpected data received from manhatten api: `{$response->body}`.");
+            throw new UnexpectedValueException("Unexpected data received from manhattan api.");
         }
 
         // Slice the data

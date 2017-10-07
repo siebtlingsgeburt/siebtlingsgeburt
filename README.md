@@ -5,7 +5,7 @@
 
 > Ey, du Siebtlingsgeburt!
 
-Diesen Ausdruck hört man auf deutschen Schulhöfern immer häufiger. 
+Diesen Ausdruck hört man auf deutschen Schulhöfen immer häufiger. 
 Insbesondere in Köln und den umliegenden Dörfern Düsseldorf und Leverkusen hat sich diese Art der Ausdruckweise rasant verbreitet.
 
 Nach ```Ey, du Otto!``` und ```Ey, du Bob!``` wurde somit ein weiterer Begriff von der Jugend zweckentfremdet und immer häufiger als Schimpfwort eingesetzt. 
@@ -41,13 +41,13 @@ Dass der Begriff "Ey, du Siebtlingsgeburt" duch seinen Hit nun Einzug auf deutsc
 Die im Rahmen der Teilnahme am Contest erstellten SEO module wollen wir euch natürlich nicht vorenthalten. Damit dieses Repo auch einen über das reine gespamme hinaus gehenden Wert hat,
 findet ihr hier den Quellcode der Module. Viel Spaß damit. 
 
-## Siebtlingsgeburt SEO Contest Module mod_manhatten_domain
+## Siebtlingsgeburt SEO Contest Module mod_manhattan_domain
 
-Dieses Joomla Modul zeigt die Query Label Ergebnisse der manhatten api für eine Domain an.
+Dieses Joomla Modul zeigt die Query Label Ergebnisse der manhattan api für eine Domain an.
 
-## Siebtlingsgeburt SEO Contest Module mod_manhatten_keyword
+## Siebtlingsgeburt SEO Contest Module mod_manhattan_keyword
 
-Dieses Joomla Modul zeigt die Ranking Ergebnisse der manhatten api für ein Keyword an.
+Dieses Joomla Modul zeigt die Ranking Ergebnisse der manhattan api für ein Keyword an.
 
 
 
