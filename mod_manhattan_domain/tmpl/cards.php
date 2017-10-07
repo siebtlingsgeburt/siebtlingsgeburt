@@ -3,20 +3,20 @@
         <div class="keyword keyword-card">
             <div class="keyword-name"><?php echo $customRanking->keyword ?></div>
             <div class="keyword-position">
-                <div class="position-value"><?php echo $customRanking->position ?></div>
+                <div class="position-value"><?php echo $customRanking->organic_position ?></div>
                 <div class="position-text"><?php echo JText::_('MOD_MANHATTAN_DOMAIN_POSITION'); ?></div>
             </div>
             <?php
-            if ($customRanking->position_change < 0) {
+            if ($customRanking->organic_position_change < 0) {
                 $trendClass = "negative";
-                $trendText  = $customRanking->position_change;
+                $trendText  = $customRanking->organic_position_change;
             } else {
-                if ($customRanking->position_change > 0) {
+                if ($customRanking->organic_position_change > 0) {
                     $trendClass = 'positive';
-                    $trendText  = '+' . $customRanking->position_change;
+                    $trendText  = '+' . $customRanking->organic_position_change;
                 } else {
                     $trendText = '';
-                    if ($customRanking->position_change === 0) {
+                    if ($customRanking->organic_position_change === 0) {
                         $trendClass = 'no-change';
                     } else {
                         $trendClass = 'new';

@@ -13,22 +13,22 @@ $highlightedDomain = $params->get('highlight_domain');
         <tbody>
         <?php foreach ($data->customRankings AS $ranking) : ?>
             <tr <?php echo ($ranking->domain == $highlightedDomain) ? 'class="highlight"' : ''; ?>>
-                <td class="ranking-position"><?php echo $ranking->position ?></td>
+                <td class="ranking-position"><?php echo $ranking->organic_position ?></td>
                 <td class="ranking-url">
                     <span class="ranking-domain"><?php echo $ranking->domain ?></span><span class="ranking-path"><?php echo rtrim($ranking->path, '/'); ?></span>
                 </td>
                 <td class="ranking-position-trend">
                     <?php
-                    if ($ranking->position_change < 0) {
+                    if ($ranking->organic_position_change < 0) {
                         $trendClass = "negative";
-                        $trendText  = $ranking->position_change;
+                        $trendText  = $ranking->organic_position_change;
                     } else {
-                        if ($ranking->position_change > 0) {
+                        if ($ranking->organic_position_change > 0) {
                             $trendClass = 'positive';
-                            $trendText  = '+' . $ranking->position_change;
+                            $trendText  = '+' . $ranking->organic_position_change;
                         } else {
                             $trendText = '';
-                            if ($ranking->position_change === 0) {
+                            if ($ranking->organic_position_change === 0) {
                                 $trendClass = 'no-change';
                             } else {
                                 $trendClass = 'new';

@@ -12,19 +12,19 @@
         <?php foreach ($data->customRankings AS $customRanking) : ?>
             <tr class="keyword">
                 <td class="keyword-name"><?php echo $customRanking->keyword ?></td>
-                <td class="keyword-position"><?php echo $customRanking->position ?></td>
+                <td class="keyword-position"><?php echo $customRanking->organic_position ?></td>
                 <td class="keyword-position-trend">
                     <?php
-                    if ($customRanking->position_change < 0) {
+                    if ($customRanking->organic_position_change < 0) {
                         $trendClass = "negative";
-                        $trendText  = $customRanking->position_change;
+                        $trendText  = $customRanking->organic_position_change;
                     } else {
-                        if ($customRanking->position_change > 0) {
+                        if ($customRanking->organic_position_change > 0) {
                             $trendClass = 'positive';
-                            $trendText  = '+' . $customRanking->position_change;
+                            $trendText  = '+' . $customRanking->organic_position_change;
                         } else {
                             $trendText = '';
-                            if ($customRanking->position_change === 0) {
+                            if ($customRanking->organic_position_change === 0) {
                                 $trendClass = 'no-change';
                             } else {
                                 $trendClass = 'new';
