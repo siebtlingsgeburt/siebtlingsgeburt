@@ -23,15 +23,12 @@ Hier finden Sie [umfangreiche Informationen zur Siebtlingsgeburt](https://www.jo
 
 # Ey, du Siebtlingsgeburt!
 
-Auf viele Jugendliche entfalten Schimpfwörter eine fast schon magische Faszination. 
-Sie sind für einige die ersten Worte, die in fremden Sprachen (oder bedauernswerterweise in der eigenen Sprache) gelernt werden.
-
-Ob als lustig und liebevoll gemeinter Spitzname oder als gemeine Provokation. Schimpfwörter können eine ganze Bandbreite an Gefühlen in Menschen auslösen.
+Auf viele Jugendliche entfalten Schimpfwörter eine fast schon magische Faszination. Ob als lustig und liebevoll gemeinter Spitzname oder als gemeine Provokation. Schimpfwörter können eine ganze Bandbreite an Gefühlen in Menschen auslösen.
 
 Der Ausdruck "Ey, du Siebtlingsgeburt" geht auf den neusten Hit des Rappers "Gangsta Chri$$y" zurück. 
 Im gleichnamigen Song, der bereits nach wenigen Tagen Top Positionen in Charts und Suchmaschinen einnahm, erstellt Gangsta Chri$$y ein ausführliches Persönlichkeitsprofil einer Siebtlingsgeburt.
 
-Er selbst wuchs als das letzte von sieben Kindern einer Siebtlingsgeburt in einerm armen Vorort bei Düsseldorf auf. 
+Er selbst wuchs als das letzte von sieben Kindern einer Siebtlingsgeburt in einerm armen Vorort von Düsseldorf auf. 
 Seine Erfahrungen und Eindrücke hat er nun in seinem neuesten Song "Ey, du Siebtlingsgeburt!" verarbeitet. 
 
 Dass der Begriff "Ey, du Siebtlingsgeburt" duch seinen Hit nun Einzug auf deutschen Schulhöfen erlangt hat, freut zum Missfallen vieler Lehrer und Eltern den Marketing Strategen Gangsta Chri$$y.
